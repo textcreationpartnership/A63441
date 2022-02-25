@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and perfect relation of the barbarous and cruell passages of the King's Army, at old Brainceford, neer London being presented to the House of Commons, by a committee of the same house, who was sent thither, on purpose to examine the truth of the particular actions of the said army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63441</idno>
+            <idno type="STC">Wing T2551</idno>
+            <idno type="STC">ESTC R22946</idno>
+            <idno type="EEBO-CITATION">12492361</idno>
+            <idno type="OCLC">ocm 12492361</idno>
+            <idno type="VID">62391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63441)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62391)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 249:E128, no 17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and perfect relation of the barbarous and cruell passages of the King's Army, at old Brainceford, neer London being presented to the House of Commons, by a committee of the same house, who was sent thither, on purpose to examine the truth of the particular actions of the said army.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Husbands and F. Frank ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642, Novemb. 25.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:62391:1"/>
+            <!-- PDF PAGE 57 -->
+            <opener>
+               <dateline>
+                  <date>24 <hi>Novemb.</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the <hi>Commons</hi> Aſſem<g ref="char:EOLhyphen"/>bled in Parliament, That this Relation, concerning the Paſſages of the Kings Army at Old-<hi>Brainceford,</hi> be forthwith Printed and Publiſhed; And further, That no Perſon, upon any pretence whatſoever, ſhall pre<g ref="char:EOLhyphen"/>ſume to Print the ſame Paſſages but <hi>Edward Husbands</hi> and <hi>John Frank,</hi> untill the 25 of <hi>December</hi> next enſu<g ref="char:EOLhyphen"/>ing the date hereof.</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl Dom. Com.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:62391:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 57 -->
+            <p>A True and Perfect RELATION Of the Barbarous and Cruell PASSAGES Of the Kings Army, At Old-<hi>Brainceford,</hi> neer <hi>London:</hi> Being preſented to the Houſe of <hi>Commons,</hi> by a Committee of the ſame Houſe, who was ſent thither, on purpoſe to examine the Truth of the particular Actions of the ſaid Army.</p>
+            <p>Printed for <hi>E. Husbands</hi> and <hi>J Frank,</hi> and are to be ſold at their ſhops, in the middle <hi>Temple,</hi> and next doore to the Kings-Head in <hi>Fleetſtreet.</hi> 1642. <hi>Novemb.</hi> 25.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:62391:2"/>
+            <!-- PDF PAGE 58 -->
+            <pb n="1" facs="tcp:62391:2"/>
+            <!-- PDF PAGE 58 -->
+            <head>The Preamble.</head>
+            <p>UNnaturall, Inhumane, and ſtrange Cruelties, ſend forth a voyce; and the voyce which they ſend forth is ſo loud and piercing, that it awakes even ſecure and ſleepy Man kinde, and ſtirs up their bow<g ref="char:EOLhyphen"/>els to an in flamed and united Indig<g ref="char:EOLhyphen"/>nation. The divided pieces of a wo<g ref="char:EOLhyphen"/>man abuſed to death, needed not the
+<pb n="2" facs="tcp:62391:3"/>
+               <!-- PDF PAGE 59 -->Eloquence or Voyce of an Orator; they ſpake themſelves, and they ſpake ſo loud, that they were heard by a whole Nation, and drew forth this Anſwer; There was no ſuch deed done nor ſeen, from the day that the children of Iſrael came out of Aegypt. Neither did they fetch onely an Anſwer of words, but of deeds: All the men of Iſrael ga<g ref="char:EOLhyphen"/>thered together as one man, againſt the Authors and Abettors of that abominable wickedneſſe.</p>
+            <p>It is a Lamentation, and to be taken up for a Lamentation, That in England ſuch horrid acts ſhould be done, that yeeld forth this high, crying, and affrighting voyce. Yet ſuch have lately been done; and
+<pb n="3" facs="tcp:62391:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 59 -->there will be no need but only to bring them into view, and then to let them ſpeak themſelves. And when they ſpeak, if they get not the ſame An<g ref="char:EOLhyphen"/>ſwer in Deeds, they cannot but get the like Anſwer in Words; No ſuch thing hath been done, ſince England came out of the Aegypt of Rome.</p>
+            <p>For hear are Acts repreſented, ſo far out of ken, and view of Chriſti<g ref="char:EOLhyphen"/>anity, that they are voyd of humani<g ref="char:EOLhyphen"/>ty; Yea, ſo voyd of humanity, that they are ſhort of the good Nature of wilde, ſavage, and unreaſonable Creatures. Even Beares and Wolves, agree with their own kindes, but theſe have robbed, ſpoiled, and tormented not Chriſtians onely, for
+<pb n="4" facs="tcp:62391:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 60 -->thoſe perchance may be thought not to be of their own kinde, nor men, which theſe ſavages have ſeemed to put off, but partners and aſſoci<g ref="char:EOLhyphen"/>ates in their own cauſe, and friends to that Quarrell for which they ſeem<g ref="char:EOLhyphen"/>ed to fight.</p>
+            <p>But let their own works ſpeak, and when they ſpeak, I ſay not, Let Grace, but let Nature hear, and it ſhall ſuffice.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="5" facs="tcp:62391:4"/>
+            <!-- PDF PAGE 60 -->
+            <head>A true and perfect RELATION OF The Barbarous and Cruell Paſsages of the KINGS Army at Old BRAINFORD.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings Army upon Saturday the 12. of Nov. inſtant (after His Maje<g ref="char:EOLhyphen"/>ſties Aſſent to Treaty of Accommo<g ref="char:EOLhyphen"/>dation) ſurpriſed Colonell <hi>H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls</hi> his Regiment at Old <hi>Brainford;</hi> and after they had poſſeſſed themſelves of the Town, they plun<g ref="char:EOLhyphen"/>dered it, without any reſpect of perſons (except the houſe of one <hi>Brent</hi> a Church-Papiſt (whoſe Wife is a known Popiſh Recuſant, and hee
+<pb n="6" facs="tcp:62391:5"/>
+               <!-- PDF PAGE 61 -->ſuſpected to give Intelligence to the Kings Ar<g ref="char:EOLhyphen"/>mie:) Firſt they drank, and waſted the Beer and Wine in the ſeverall Inns, and other places in the Town; and ſuch Beer and Wine as they could not drink, they let it run out (in ſome Cellars as deep as to the mid leg.)</p>
+            <p>They alſo took from the Inhabitants, their Money, Linnen, Woollen, Bedding wearing Apparell, Horſes, Cows, Swine, Hens, &amp;c. and all manner of Victualls. Alſo, Pewter, Braſſe, Iron pots, and Kettles, and all manner of Grocery, Chandlery, and Apothe<g ref="char:EOLhyphen"/>cary ware: Nay ſuch was their barbarous car<g ref="char:EOLhyphen"/>riage, that many of the Featherbeds which they could not bear away, they did cut the Ticks of them in pieces, and ſcattered the Feathers abroad in the fields and ſtreets; They did alſo cut the Cords of the Beds, and broke down the Bed<g ref="char:EOLhyphen"/>ſteads: They did cut in pieces, and burn the poor Fiſhermens Boats and Nets, by which they got their livings, (having pillaged them beſides of all that ever they had:) They did caſt Beef into the dirt, which they carryed not away with them: They littered their Horſes with Wheat-ſheaves:
+<pb n="7" facs="tcp:62391:5"/>
+               <!-- PDF PAGE 61 -->They ſpoiled Nurceries of Fruit-trees of good value; and neer upon Three hundred Buſhells of Apples from one man they took away, ſpoiled, and trampled to dirt with their Horſes feet; beſides, Fifteen pair of Sheets, his Bedding, &amp;c. They alſo took Candles, to the value of Twenty pounds and upwards, from one man, and burnt them all night through the Army, and ſuch as they carryed not away, either they broke in pieces, or threw into the fire, or trode in the mire.</p>
+            <p>Had they reſted with robbing of the richer ſort, it had been ſome degree of mercie; but they left not unplundered, the blinde Beggar at Old <hi>Brainford,</hi> taking from him and his Wife, their Apparell, Linnen, Woollen, and Bedding; and the like they did to the Four Almſ-women in the Spittle there, and took from them their Wheel or Rocks, by which they got ſomething towards a livelyhood.</p>
+            <p>And when they had thus plundered, and ta<g ref="char:EOLhyphen"/>ken away all the goods (except here and there a Bed) they defaced ſome houſes, and ſet one of fire (of purpoſe, as is conceived, to fire the
+<pb n="8" facs="tcp:62391:6"/>
+               <!-- PDF PAGE 62 -->Town) which was afterwards quenched by an Inhabitant.</p>
+            <p>Had their wicked carriages here ended in the loſſe of the Inhabitants goods, without hazard of their perſons, they had undergone it with more patience; but ſuch was their inhu<g ref="char:EOLhyphen"/>mane behaviour, that they did ſet drawn Swords and Piſtols cockt to men and womens breſts, threatning them with death, if they brought not out all their money; and threatning others, to cut off their Noſes, and pull out their Eyes, cal<g ref="char:EOLhyphen"/>ling them Parliament doggs, Round-headed rogues, beating and wounding ſome of them, (one of them being a lame Cripple) taking others of the Inhabitants priſoners, and putting Irons upon them; others they tyed with Ropes, and ſtript ſome to their Shirts; and as one of them that was led next day in Irons towards <hi>Oatlands,</hi> ſtoopt to take a little water in his Hat to drink, they beat him, and bruiſed him for of<g ref="char:EOLhyphen"/>fering to do it; Their hearts were ſo ſeared, that they would not extend compaſsion to the aged and gray-headed, for they took one grave old Gentleman, (above Fourſcore yeers of age) and
+<pb n="9" facs="tcp:62391:6"/>
+               <!-- PDF PAGE 62 -->put him with other of the Inhabitants of the Town, into the Pound, where they were di<g ref="char:EOLhyphen"/>vers hours, and afterwards were removed into the Slaughter-houſe, where they lay all night, it being a moſt naſty and noyſome place; and the old Gentleman being bound head and feet toge<g ref="char:EOLhyphen"/>ther all night: They alſo plundered an ancient Gentlewoman of about Threeſcore and ten yeers of age, (whoſe age and weakneſſe would not permit her to go to Church for theſe Seven yeers laſt paſt) they took from her all her Bed<g ref="char:EOLhyphen"/>ding, Linnen, Pewter, &amp;c. and even her Mantle from her back, leaving her in a poor and miſe<g ref="char:EOLhyphen"/>rable condition.</p>
+            <p>Their plundering was ſo univerſall, that even divers of the richer, as well as the meaner ſort, were, and to this day ſtill are, inforced to live of the charity of the Earl of <hi>Eſſex</hi> his Souldiers; the CAVALIERS leaving ſcarce one piece of Bread or Meat in all the Town: It would pierce a heart of flint, to ſee the tears dropping from the old mens eyes, in expreſsing their ſad con<g ref="char:EOLhyphen"/>dition:</p>
+            <p>And a great addition to theſe Cruelties, was
+<pb n="10" facs="tcp:62391:7"/>
+               <!-- PDF PAGE 63 -->the barbarous, mercileſſe, and unheard of uſage of the PARLIAMENT Souldiers by the CA<g ref="char:EOLhyphen"/>VALIERS, for they did put them into a Pound, and there tyed and pinioned them together, where they ſo ſtood for many hours, ſome of them they ſtript to their Shirts, others to their Breeches, moſt without Stockings or Shoes, and in that condition removed them to the Slaugh<g ref="char:EOLhyphen"/>ter-houſe, where they lay all night, and next day were dragged away over <hi>Hunſlow-Heath,</hi> towards <hi>Oatlands,</hi> divers of them bare foot and bare leg, over Furrs and Thiſtles, till their feet and legs did bleed, and were fore gauled: But theſe may be accounted but Acts of Grace and Favour, in compariſon of what they did towards others of them; for when divers of Maſter <hi>Hollis</hi> his Souldiers fled into the River of THAMES, for ſafeguard of their lives, they ſhot at them as they were ſwimming, and ſo divers of them were drowned.</p>
+            <p>They took after the Fight ended, Five of the Earl of <hi>Eſſex</hi> his Souldiers, and tyed them by the hands with Ropes, and inforced them in<g ref="char:EOLhyphen"/>to the River of THAMES, who ſtanding in
+<pb n="11" facs="tcp:62391:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 63 -->the water to their necks, caſting their eyes on their Enemies, in hopes of Mercie; but ſuch was the mercileſſe condition of their Adverſa<g ref="char:EOLhyphen"/>ries, that a Trooper rid into the water after them, and forced them to fall into the depth of the water, ſaying to them (in a jeering manner) Swim for your lives, when it was paſt all poſsi<g ref="char:EOLhyphen"/>bility to eſcape.</p>
+            <p>Had their barbarous carriages begun and end<g ref="char:EOLhyphen"/>ed in heat of blood and revenge, it had a little qualified then offence; but ſo full of inhumani<g ref="char:EOLhyphen"/>ty were their hearts, even before the Fight begun at Old <hi>Brainford,</hi> with Colonell <hi>Hollis</hi> his Regi<g ref="char:EOLhyphen"/>ment, that they placed Ten of the Earl of <hi>Eſſex</hi> his Souldiers (whom they had formerly taken priſoners at <hi>Keynton</hi>) pinioned, in the Front of their men, to be as a Breſtwork to receive the Bullets that came from Colonell <hi>Hollis</hi> his Re<g ref="char:EOLhyphen"/>giment, that the CAVALIERS might eſcape them; but ſuch was the providence of God, that not one of them was hurt, though ſhot through the clothes in many places; and one of the Ten eſcaped (who was formerly a Sergeant to a Company in Colonell <hi>Eſſex</hi> his Regiment)
+<pb n="12" facs="tcp:62391:8"/>
+               <!-- PDF PAGE 64 -->and in the preſence of divers Witneſſes, averred the truth of this particular.</p>
+            <p>And now ſince it appears by theſe prodigi<g ref="char:EOLhyphen"/>ous Acts of Rapine, Deſtruction, and Tyran<g ref="char:EOLhyphen"/>ny, that theſe men delight in cruelty, and fight a<g ref="char:EOLhyphen"/>gainſt their own Aſſociates, and ſpoyle thoſe that favour their own cauſe, with thoſe that op<g ref="char:EOLhyphen"/>poſe it; what remains, but that they be taken, not for ſuch as endeavour the defence of the King, but the ruine of the Kingdom; and not as Ene<g ref="char:EOLhyphen"/>mies of ſome kinde of men, but as the com<g ref="char:EOLhyphen"/>mon Enemies of mankinde.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62391:8"/>
+            <!-- PDF PAGE 64 -->
+         </div>
+      </body>
+   </text>
+</TEI>
